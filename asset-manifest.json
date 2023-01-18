@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/algo-fx/static/css/main.e7012c3a.css",
+    "main.js": "/algo-fx/static/js/main.71acab89.js",
+    "static/media/laptop.jpg": "/algo-fx/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/algo-fx/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/algo-fx/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/algo-logo1-gold.png": "/algo-fx/static/media/algo-logo1-gold.c261bdf203ccdb26d217.png",
+    "static/media/triple.png": "/algo-fx/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/algo-fx/index.html",
+    "main.e7012c3a.css.map": "/algo-fx/static/css/main.e7012c3a.css.map",
+    "main.71acab89.js.map": "/algo-fx/static/js/main.71acab89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7012c3a.css",
+    "static/js/main.71acab89.js"
+  ]
+}
