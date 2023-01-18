@@ -108,8 +108,9 @@ function App() {
        <FeaturesBlocks />
       <Analytics />
       <Testimonials />
-      <Newsletter />
+      
       <Cards />
+      <Newsletter />
         <Footer />
         </div>
   );
