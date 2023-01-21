@@ -33,8 +33,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Initial Contact</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Currency Pairs</h4>
+              <p className="text-gray-600 text-center">We offer transparent and reliale access to more than 40 currency pairs.</p>
             </div>
 
             {/* 2nd item */}
@@ -49,8 +49,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Discovery Session</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Stocks</h4>
+              <p className="text-gray-600 text-center">Access to stocks to more than 12,000 companies from all over the world</p>
             </div>
 
             {/* 3rd item */}
@@ -64,8 +64,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Contracting</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Indices</h4>
+              <p className="text-gray-600 text-center">In its most regularly format, an index is defined as portfolio of stocks that represents a particular market or market sector.</p>
             </div>
 
             {/* 4th item */}
@@ -81,8 +81,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>              
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Fast Prototyping</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">ETFs</h4>
+              <p className="text-gray-600 text-center">Fast-growing global ETF industry with over $3 trillion in assets in management.</p>
             </div>
 
             {/* 5th item */}
@@ -96,8 +96,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Design Phase</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Soft Commodities</h4>
+              <p className="text-gray-600 text-center">ETFs on grown commodities such as coffee, cocoa, sugar, corn, wheat</p>
             </div>
 
             {/* 6th item */}
@@ -113,8 +113,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Develop & Launch</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Metals</h4>
+              <p className="text-gray-600 text-center">Precious metals like gold, silver, platinum as well as XAU/USD and XAG/USD pairs</p>
             </div>
 
           </div>

@@ -8,8 +8,9 @@ import Newsletter from './components/Newsletter';
 import Particles from 'react-tsparticles';
 import { loadFull } from 'tsparticles';
 import FeaturesBlocks from './components/FeaturesBlocks';
-import TradingViewWidget from './components/TradingviewChart';
 import Testimonials from './components/Testimonials';
+import Reason from './components/Reason';
+
 
 function App() {
 
@@ -107,6 +108,7 @@ function App() {
        <Hero />
        <FeaturesBlocks />
       <Analytics />
+      <Reason />
       <Testimonials />
       
       <Cards />

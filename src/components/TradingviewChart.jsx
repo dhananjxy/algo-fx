@@ -28,10 +28,11 @@ export default function TradingViewWidget() {
       return () => onLoadScriptRef.current = null;
 
       function createWidget() {
-        if (document.getElementById('tradingview_a0acd') && 'TradingView' in window) {
+        if (document.getElementById('tradingview_99e26') && 'TradingView' in window) {
           new window.TradingView.widget({
-            autosize: false,
-            symbol: "NASDAQ:AAPL",
+            width: 770,
+            height: 610,
+            symbol: "FX:EURUSD",
             interval: "D",
             timezone: "Etc/UTC",
             theme: "dark",
@@ -40,7 +41,7 @@ export default function TradingViewWidget() {
             toolbar_bg: "#f1f3f6",
             enable_publishing: false,
             allow_symbol_change: true,
-            container_id: "tradingview_a0acd"
+            container_id: "tradingview_99e26"
           });
         }
       }
@@ -50,10 +51,8 @@ export default function TradingViewWidget() {
 
   return (
     <div className='tradingview-widget-container'>
-      <div id='tradingview_a0acd' />
-      <div className="tradingview-widget-copyright">
-        <a href="https://in.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span className="blue-text">AAPL stock chart</span></a> by TradingView
-      </div>
+      <div id='tradingview_99e26' />
+     
     </div>
   );
 }

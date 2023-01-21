@@ -71,7 +71,7 @@ function Testimonials() {
                 <blockquote className="text-xl font-medium mb-4 text-white">
                   “ I love this product and would recommend it to anyone. Could be not easier to use, and our website is wonderful. We get nice comments all the time. “
                 </blockquote>
-                <cite className="block font-bold text-white text-lg not-italic mb-1">Client Name</cite>
+                <cite className="block font-bold text-white text-lg not-italic mb-1">Jack Matthew</cite>
                 <div className="text-gray-500">
                   <span>CEO & Co-Founder</span> <a className="text-blue-600 hover:underline" href="#0">@Account</a>
                 </div>
