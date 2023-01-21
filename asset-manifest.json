@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/algofx/static/css/main.9e20fdec.css",
-    "main.js": "/algofx/static/js/main.09f8db88.js",
-    "static/media/laptopblack.jpg": "/algofx/static/media/laptopblack.555de6a4ae8784f2cd38.jpg",
-    "static/media/single.png": "/algofx/static/media/single.20196aa3e7e7fa48f8f7.png",
-    "static/media/double.png": "/algofx/static/media/double.8be045e6bb88be63d414.png",
-    "static/media/algo-logo1-gold.png": "/algofx/static/media/algo-logo1-gold.c261bdf203ccdb26d217.png",
-    "static/media/triple.png": "/algofx/static/media/triple.4eb8f19f4b4647321484.png",
-    "index.html": "/algofx/index.html",
-    "main.9e20fdec.css.map": "/algofx/static/css/main.9e20fdec.css.map",
-    "main.09f8db88.js.map": "/algofx/static/js/main.09f8db88.js.map"
+    "main.css": "/algo-fx/static/css/main.9e20fdec.css",
+    "main.js": "/algo-fx/static/js/main.850af697.js",
+    "static/media/laptopblack.jpg": "/algo-fx/static/media/laptopblack.555de6a4ae8784f2cd38.jpg",
+    "static/media/single.png": "/algo-fx/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/algo-fx/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/algo-logo1-gold.png": "/algo-fx/static/media/algo-logo1-gold.c261bdf203ccdb26d217.png",
+    "static/media/triple.png": "/algo-fx/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/algo-fx/index.html",
+    "main.9e20fdec.css.map": "/algo-fx/static/css/main.9e20fdec.css.map",
+    "main.850af697.js.map": "/algo-fx/static/js/main.850af697.js.map"
   },
   "entrypoints": [
     "static/css/main.9e20fdec.css",
-    "static/js/main.09f8db88.js"
+    "static/js/main.850af697.js"
   ]
 }
