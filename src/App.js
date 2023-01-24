@@ -10,6 +10,7 @@ import { loadFull } from 'tsparticles';
 import FeaturesBlocks from './components/FeaturesBlocks';
 import Testimonials from './components/Testimonials';
 import Reason from './components/Reason';
+import Awards from './components/Awards';
 
 
 function App() {
@@ -112,6 +113,7 @@ function App() {
       <Testimonials />
       
       <Cards />
+      <Awards />
       <Newsletter />
         <Footer />
         </div>
