@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/algo-fx/static/css/main.9e20fdec.css",
-    "main.js": "/algo-fx/static/js/main.e8056913.js",
+    "main.css": "/algo-fx/static/css/main.9d7ed317.css",
+    "main.js": "/algo-fx/static/js/main.9d17b39a.js",
     "static/media/laptopblack.jpg": "/algo-fx/static/media/laptopblack.555de6a4ae8784f2cd38.jpg",
     "static/media/single.png": "/algo-fx/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/double.png": "/algo-fx/static/media/double.8be045e6bb88be63d414.png",
     "static/media/algo-logo1-gold.png": "/algo-fx/static/media/algo-logo1-gold.c261bdf203ccdb26d217.png",
     "static/media/triple.png": "/algo-fx/static/media/triple.4eb8f19f4b4647321484.png",
+    "static/media/award-2.png": "/algo-fx/static/media/award-2.6128a5c8c17e516fdbb5.png",
+    "static/media/award-3.png": "/algo-fx/static/media/award-3.80597c4c3fef7b8c90c3.png",
+    "static/media/award-1.png": "/algo-fx/static/media/award-1.049fd363ca4bf5e62d62.png",
+    "static/media/award-4.png": "/algo-fx/static/media/award-4.f046354a2f66f293d208.png",
+    "static/media/award-5.png": "/algo-fx/static/media/award-5.f046354a2f66f293d208.png",
+    "static/media/award-6.png": "/algo-fx/static/media/award-6.f046354a2f66f293d208.png",
     "index.html": "/algo-fx/index.html",
-    "main.9e20fdec.css.map": "/algo-fx/static/css/main.9e20fdec.css.map",
-    "main.e8056913.js.map": "/algo-fx/static/js/main.e8056913.js.map"
+    "main.9d7ed317.css.map": "/algo-fx/static/css/main.9d7ed317.css.map",
+    "main.9d17b39a.js.map": "/algo-fx/static/js/main.9d17b39a.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e20fdec.css",
-    "static/js/main.e8056913.js"
+    "static/css/main.9d7ed317.css",
+    "static/js/main.9d17b39a.js"
   ]
 }
