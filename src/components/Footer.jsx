@@ -11,8 +11,12 @@ const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
       <div>
-        <h1 className='w-full text-3xl font-bold text-[#af8300]'>AlgoFX</h1>
-        <p className='py-4'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit ullam iste repellat consequatur libero reiciendis, blanditiis accusantium.</p>
+        <h1 className='w-full text-3xl font-bold text-[#af8300]'>AlgoFX Brand</h1>
+        <p className='py-4'>AlgoFX: is owned and operated by AlgoFXTrades, a company authorized and regulated by ASIC with license number 001301275 AFS and is authorized to Australian Securities & Investments Commission
+
+AlgoFX LTD: is owned and operated by AlgoFXTrades PTY LTD, a company authorized and license by Canadian with NFA ID: 0553715 and is authorized to Canadian National Futures Association.
+
+AlgoFX LTD: is owned and operated by XYZ BROKER AG, a company authorized and regulated by Mwali International Services Authority with license number T2022131 and is authorized to provide services as an International CFDs Brokerage.</p>
         <div className='flex justify-between md:w-[75%] my-6'>
             <FaFacebookSquare size={30} />
             <FaInstagram size={30} />
